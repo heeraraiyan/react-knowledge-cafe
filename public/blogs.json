@@ -1,52 +1,52 @@
 [
     {
         "id": 101,
-        "cover": "book1.jpg",
+        "cover": "https://i.ibb.co/vkkRyrZ/1.jpg",
         "title": "The Enchanted Forest",
         "author": "Amanda Williams",
-        "author-img": "amanda-williams.jpg",
-        "posted-date": "2023-09-14",
-        "reading-time": "2.5 hours",
+        "author_img": "https://i.ibb.co/f41YWQD/boy1.png",
+        "posted": "2023-09-14",
+        "reading": "2.5",
         "hashtags": ["fantasy", "adventure", "magic"]
       },
       {
         "id": 102,
-        "cover": "book2.jpg",
+        "cover": "https://i.ibb.co/0ZCHWXV/2.png",
         "title": "Culinary Delights",
         "author": "Michael Johnson",
-        "author-img": "michael-johnson.jpg",
-        "posted-date": "2023-09-13",
-        "reading-time": "1.5 hours",
+        "author_img": "https://i.ibb.co/GHFhCjd/boy2.jpg",
+        "posted": "2023-09-13",
+        "reading": "1.5",
         "hashtags": ["cooking", "recipes", "foodie"]
       },
       {
         "id": 103,
-        "cover": "book3.jpg",
+        "cover": "https://i.ibb.co/yXc4yHJ/3.png",
         "title": "Beyond the Stars",
         "author": "Jessica Parker",
-        "author-img": "jessica-parker.jpg",
-        "posted-date": "2023-09-12",
-        "reading-time": "3 hours",
+        "author_img": "https://i.ibb.co/nMS9RJ8/girl1.jpg",
+        "posted": "2023-09-12",
+        "reading": "3",
         "hashtags": ["sciencefiction", "space", "exploration"]
       },
       {
         "id": 104,
-        "cover": "book4.jpg",
+        "cover": "https://i.ibb.co/0mLWPhb/4.jpg",
         "title": "Hiking Adventures",
         "author": "Mark Davis",
-        "author-img": "mark-davis.jpg",
-        "posted-date": "2023-09-11",
-        "reading-time": "4.5 hours",
+        "author_img": "https://i.ibb.co/5j6Pt1x/girl2.jpg",
+        "posted": "2023-09-11",
+        "reading": "4.5",
         "hashtags": ["travel", "outdoors", "hiking"]
       },
       {
         "id": 105,
-        "cover": "book5.jpg",
+        "cover": "https://i.ibb.co/0mLWPhb/4.jpg",
         "title": "Health and Wellness Guide",
         "author": "Emily White",
-        "author-img": "emily-white.jpg",
-        "posted-date": "2023-09-10",
-        "reading-time": "1.2 hours",
+        "author_img": "https://i.ibb.co/5j6Pt1x/girl2.jpg",
+        "posted": "2023-09-10",
+        "reading": "1.2",
         "hashtags": ["health", "wellness", "selfcare"]
       }
 ]
