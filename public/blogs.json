@@ -6,7 +6,7 @@
         "author": "Amanda Williams",
         "author_img": "https://i.ibb.co/f41YWQD/boy1.png",
         "posted": "2023-09-14",
-        "reading": "2.5",
+        "reading": 3,
         "hashtags": ["fantasy", "adventure", "magic"]
       },
       {
@@ -16,7 +16,7 @@
         "author": "Michael Johnson",
         "author_img": "https://i.ibb.co/GHFhCjd/boy2.jpg",
         "posted": "2023-09-13",
-        "reading": "1.5",
+        "reading": 30,
         "hashtags": ["cooking", "recipes", "foodie"]
       },
       {
@@ -26,7 +26,7 @@
         "author": "Jessica Parker",
         "author_img": "https://i.ibb.co/nMS9RJ8/girl1.jpg",
         "posted": "2023-09-12",
-        "reading": "3",
+        "reading": 11,
         "hashtags": ["sciencefiction", "space", "exploration"]
       },
       {
@@ -36,7 +36,7 @@
         "author": "Mark Davis",
         "author_img": "https://i.ibb.co/5j6Pt1x/girl2.jpg",
         "posted": "2023-09-11",
-        "reading": "4.5",
+        "reading": 3,
         "hashtags": ["travel", "outdoors", "hiking"]
       },
       {
@@ -46,7 +46,7 @@
         "author": "Emily White",
         "author_img": "https://i.ibb.co/5j6Pt1x/girl2.jpg",
         "posted": "2023-09-10",
-        "reading": "1.2",
+        "reading": 10,
         "hashtags": ["health", "wellness", "selfcare"]
       }
 ]
